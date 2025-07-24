@@ -1,0 +1,8 @@
+streamlit
+PyInstaller
+inflect
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
+typeguard
